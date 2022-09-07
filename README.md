@@ -17,6 +17,9 @@ in this task I have been create speech to text by HTML , CSS ,JS.
 https://youtu.be/-k-PgvbktX4
 
 
+https://aqlaa29.github.io/SpeechToText-/
+
+
 
 ![image](https://user-images.githubusercontent.com/85647715/177061736-b6c7d88a-dbb6-4719-bd22-1423c30d718c.png)
 
